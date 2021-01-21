@@ -149,7 +149,7 @@ img {
 }
 
 .project-image {
-  
+  max-width: 100%;
 }
 
 .projects p {
