@@ -99,20 +99,37 @@ text-align: left;
 }
 
 .skills-list dt {
-   padding-left: 32px;
+   
   background-repeat: no-repeat;
   background-position: left;
 
 }
 
 .skill-html {
+  padding-left: 32px;
    background-image: url("img/icon-html.svg");
 
 }
 
 .skill-css {
+  padding-left: 32px;
   background-image: url("img/icon-css.svg");  
 }
+.skill-php {
+  padding-left: 60px;
+  
+  padding-top: 10px;
+ 
+   background-image: url("img/icon-php-cr.svg"); 
+}
+.skill-Js {
+  padding-left: 32px;
+  
+  
+ 
+   background-image: url("img/icon-js.svg"); 
+}
+
 
 .level {
   margin: 4px 0 16px;
@@ -149,7 +166,7 @@ img {
 }
 
 .project-image {
-
+  max-width: 100%;
 }
 
 .projects p {
